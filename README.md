@@ -42,3 +42,7 @@ SLACK_WEBHOOK_URL=https://hooks.slack.com/services/... python3 inquiry_status.py
 
 - `--post` での Slack への投稿は実行していない(Webhook を使っていない)
 - テストコードは無い。上の出力例で確かめている
+
+## 記事
+
+https://zenn.dev/liatris/articles/20261022-inquiry-status-visibility
